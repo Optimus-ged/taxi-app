@@ -1,6 +1,6 @@
 import 'package:taxi_app/exports/exports.dart';
 
-class LoginPage extends StatelessWidget {
+class Login extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
